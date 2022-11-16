@@ -49,11 +49,7 @@ export const Form = () => {
     //     }, 5000);
     //   });
 
-    const clearInputs = () => {
-      inputs.forEach((item) => {
-        item.value = "";
-      });
-    };
+
 
   };
 
