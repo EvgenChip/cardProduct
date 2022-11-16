@@ -159,7 +159,7 @@ export const Form = () => {
           </div>
           <button
             disabled={!formValid}
-            onClick={postForms}
+
             type="submit"
             className="form__button">
             Отправить
