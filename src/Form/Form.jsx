@@ -33,7 +33,7 @@ export const Form = () => {
     // statusMessage.classList.add("status");
     // // formRef.appendChild(statusMessage);
 
-    postData("https://jsonplaceholder.typicode.com/posts", formData)
+    postData("https://nechip163@yandex.com", formData)
       .then((res) => {
         console.log(res);
         // statusMessage.textContent = message.success;
@@ -48,9 +48,6 @@ export const Form = () => {
     //       //   statusMessage.remove();
     //     }, 5000);
     //   });
-
-
-
   };
 
   const [email, setEmail] = useState("");
@@ -159,7 +156,7 @@ export const Form = () => {
           </div>
           <button
             disabled={!formValid}
-
+            onClick={postForms}
             type="submit"
             className="form__button">
             Отправить
