@@ -54,7 +54,7 @@ export const Form = () => {
         item.value = "";
       });
     };
-    clearInputs();
+
   };
 
   const [email, setEmail] = useState("");
