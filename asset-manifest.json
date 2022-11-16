@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cardProduct/static/css/main.3bf088db.css",
+    "main.js": "/cardProduct/static/js/main.3769e968.js",
+    "static/js/787.28cb0dcd.chunk.js": "/cardProduct/static/js/787.28cb0dcd.chunk.js",
+    "static/media/golf.jpg": "/cardProduct/static/media/golf.ba299b7427c0f4cc8b23.jpg",
+    "static/media/chair.webp": "/cardProduct/static/media/chair.7bb84a0399826e3bc862.webp",
+    "static/media/logo.svg": "/cardProduct/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cardProduct/index.html",
+    "static/media/basket.svg": "/cardProduct/static/media/basket.734571584a7e67fa7e14c11b1b98eb8b.svg",
+    "main.3bf088db.css.map": "/cardProduct/static/css/main.3bf088db.css.map",
+    "main.3769e968.js.map": "/cardProduct/static/js/main.3769e968.js.map",
+    "787.28cb0dcd.chunk.js.map": "/cardProduct/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf088db.css",
+    "static/js/main.3769e968.js"
+  ]
+}
