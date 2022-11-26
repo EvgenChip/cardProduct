@@ -3,6 +3,7 @@ import cn from "classnames";
 
 import "./styles.css";
 
+
 export const MetricPage = ({ metricActive }) => (
   <div className={cn("metricPage", { "metricPage--active": metricActive })}>
     <div className="metricPage__content">
