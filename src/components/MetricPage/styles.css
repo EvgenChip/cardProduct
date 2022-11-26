@@ -1,0 +1,22 @@
+.metricPage {
+  height: 100vh;
+  min-width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0px;
+  display: flex;
+  transform: scale(0);
+}
+
+.metricPage--active {
+    transform: scale(1);
+}
+
+.metricPage__content{
+    margin: 0px auto;
+    color: rgb(208, 218, 220);
+    padding: 30px 0;
+    border-radius: 12px;
+    font-size: 80px;
+}

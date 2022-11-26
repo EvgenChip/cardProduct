@@ -1,13 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Card } from "./card/Card";
-import { Form } from "./Form/Form";
+
+import { Cards } from "./pages/Cards/Cards";
 
 function App() {
   return (
     <div className="App">
-      <Card />
-      <Form />
+      <Cards />
     </div>
   );
 }

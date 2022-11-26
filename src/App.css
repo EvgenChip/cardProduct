@@ -5,11 +5,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif ;
-
-
-
 }
+
 .App{
+    display: flex;
+    justify-content: center;
     background-image: linear-gradient(43deg,#c1d7d2 0%,
     #a8af97 46%, #414138 100%);
 }
