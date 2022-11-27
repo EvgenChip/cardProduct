@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/cardProduct/static/css/main.3cb4a0a4.css",
-    "main.js": "/cardProduct/static/js/main.0058c040.js",
+    "main.js": "/cardProduct/static/js/main.42c376e8.js",
     "static/js/787.28cb0dcd.chunk.js": "/cardProduct/static/js/787.28cb0dcd.chunk.js",
     "static/media/golf.jpg": "/cardProduct/static/media/golf.ba299b7427c0f4cc8b23.jpg",
     "static/media/chair.webp": "/cardProduct/static/media/chair.7bb84a0399826e3bc862.webp",
     "index.html": "/cardProduct/index.html",
     "static/media/basket.svg": "/cardProduct/static/media/basket.734571584a7e67fa7e14c11b1b98eb8b.svg",
     "main.3cb4a0a4.css.map": "/cardProduct/static/css/main.3cb4a0a4.css.map",
-    "main.0058c040.js.map": "/cardProduct/static/js/main.0058c040.js.map",
+    "main.42c376e8.js.map": "/cardProduct/static/js/main.42c376e8.js.map",
     "787.28cb0dcd.chunk.js.map": "/cardProduct/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cb4a0a4.css",
-    "static/js/main.0058c040.js"
+    "static/js/main.42c376e8.js"
   ]
 }
