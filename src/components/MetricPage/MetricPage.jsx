@@ -4,7 +4,7 @@ import { sendMetric } from "./metric";
 import "./styles.css";
 
 export const MetricPage = ({ metricActive }) => {
-  sendMetric();
+  sendMetric("reachGoal", "Спасибо за заказ");
   return (
     <div className={cn("metricPage", { "metricPage--active": metricActive })}>
       <div className="metricPage__content">
